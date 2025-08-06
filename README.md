@@ -5,8 +5,6 @@
 <img width="1331" height="635" alt="4pag" src="https://github.com/user-attachments/assets/f145146c-da3b-4bfc-8e72-6bbfdd1a79ac" />
 <img width="1359" height="639" alt="5pag" src="https://github.com/user-attachments/assets/a05324ef-5348-4ce2-b07a-e7603f503716" />
 
-# 🃏 Projeto: Ben 10 - Card Battle
-
 # 🔍 Sobre o Projeto
 
 Este projeto é um jogo de cartas online inspirado no universo de Ben 10, utilizando a dinâmica clássica de batalhas por turnos semelhante aos jogos de cartas Pokémon. O jogador monta um deck com cinco aliens e participa de batalhas estratégicas, combinando habilidades únicas de cada personagem. O jogo foi idealizado com foco em diversão, nostalgia e usabilidade, com uma interface moderna e interativa.
