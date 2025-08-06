@@ -41,6 +41,8 @@ Interface Visual Estilizada: Efeitos de brilho, seleção animada de cartas, ind
 
 Sistema de Batalha por Turnos: Com alternância entre jogador e oponente, pontos de saúde atualizados em tempo real e habilidades com custos variados.
 
+🔗 **Acesse o jogo online:** [Clique aqui para jogar!](https://jogo-cartas-vek0.onrender.com)
+
 
 
 
