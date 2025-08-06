@@ -1,9 +1,15 @@
 # Jogo Cartas
-<img width="1352" height="640" alt="1pag" src="https://github.com/user-attachments/assets/1e65c6ca-dc05-49c8-9e43-870a060a5079" />
-<img width="1336" height="640" alt="2pag" src="https://github.com/user-attachments/assets/e6667d72-fa4c-4e93-b0b9-58c161877bb0" />
-<img width="1356" height="622" alt="3pag" src="https://github.com/user-attachments/assets/8fc1ad16-5e4d-4307-a58b-c39f89df3ba6" />
-<img width="1331" height="635" alt="4pag" src="https://github.com/user-attachments/assets/f145146c-da3b-4bfc-8e72-6bbfdd1a79ac" />
-<img width="1359" height="639" alt="5pag" src="https://github.com/user-attachments/assets/a05324ef-5348-4ce2-b07a-e7603f503716" />
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/86eb1381-0dc8-4e21-b5ff-e832538c7975" />
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/71b08f0c-bcd3-4e99-b1bf-f35282e499a9" />
+<img width="1920" height="905" alt="image" src="https://github.com/user-attachments/assets/9f337627-6d6a-4ae0-8317-5d7ee7710a07" />
+<img width="1902" height="906" alt="image" src="https://github.com/user-attachments/assets/80f117e0-8a78-409f-89d5-f820b01a3a9e" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/066ac8a7-c1a3-42d9-8377-bb147acbdde1" />
+
+
+
+
+
+
 
 # 🔍 Sobre o Projeto
 
